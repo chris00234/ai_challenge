@@ -1,0 +1,9 @@
+path: /Users/chris/Documents_local/AI_challenge/data # dataset root dir
+train: images
+val: images
+# test:  # test images (optional)
+nc: 2
+names: [ 
+0: drowsy,
+1: awake
+]
